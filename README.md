@@ -1,1 +1,1 @@
-# homework2-python
+Денис Олейников
